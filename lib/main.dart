@@ -39,6 +39,10 @@ class BusCard extends StatelessWidget {
                 ),
                 const SizedBox(
                   height: 20,
+                  width: 120,
+                  child: Divider(
+                    color: Colors.white,
+                  ),
                 ),
                 Container(
                   height: 30,
